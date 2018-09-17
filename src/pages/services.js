@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'gatsby-link'
 
 const ServicesPage = () => (
   <div className="container">
@@ -9,7 +10,8 @@ const ServicesPage = () => (
       that make a real difference in leadership, health services planning and
       development, workforce development, service reviews, professional
       governance and technology project innovation, development and
-      implementation.
+      implementation. See our <Link to="/previous-work">Previous Work</Link> for
+      more detail.
     </p>
 
     <div className="break">
@@ -125,7 +127,7 @@ const ServicesPage = () => (
     </h3>
 
     <p>
-      Janice has expertise as a healthcare regulator and Board Director.She has
+      Janice has expertise as a healthcare regulator and Board Director. She has
       been involved as a member of a regulatory authority since 2010, and as
       Chair since 2013. Janice is also a member of the InterRAI New Zealand
       governance board.

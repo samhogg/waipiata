@@ -6,8 +6,8 @@ const Header = ({ siteTitle }) => (
     <div
       style={{
         textAlign: 'center',
-        padding: '3px 0',
-        fontSize: '16px',
+        padding: '12px 0',
+        fontSize: '21px',
         borderBottom: '1px solid #ccc',
       }}
     >
