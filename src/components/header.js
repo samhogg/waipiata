@@ -12,7 +12,7 @@ const Header = ({ siteTitle }) => (
       }}
     >
       Allied Health &amp; NGO Business Master Class Coming in February 2019{' '}
-      <a href="/masterclass-270818.pdf">View Details</a>
+      <Link to="/masterclass-2019">View Details</Link>
     </div>
     <div
       style={{

@@ -7,7 +7,7 @@ const PreviousWork = () => (
       Please find below details of some example work that the Waipiata
       Consulting Directors have conducted in recent years.
     </p>
-    <h3>Janice Mueller</h3>
+    <h3 id="janice">Janice Mueller</h3>
     <h4>Allied Health Service Reviews – Australia and Aotearoa New Zealand</h4>
     <h5>
       Allied Health Service Review – Nelson Marlborough District Health Board
@@ -162,7 +162,7 @@ const PreviousWork = () => (
       Clinical Advisory Group.{' '}
     </p>
 
-    <h3>Ian Rowe </h3>
+    <h3 id="ian">Ian Rowe </h3>
     <h4>Project Establishment</h4>
     <p>
       Ian has recently undertaken a six month project in Abu Dhabi, lending his

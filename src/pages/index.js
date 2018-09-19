@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'gatsby-link'
 
 const IndexPage = () => (
   <div className="container">
@@ -74,6 +75,9 @@ const IndexPage = () => (
           Professions Officers.
         </p>
         <p>
+          <Link to="/previous-work#janice" className="button">
+            Janice's Previous Work
+          </Link>{' '}
           <a href="mailto:janice@waipiata.com" className="button">
             Email Janice
           </a>
@@ -109,6 +113,9 @@ const IndexPage = () => (
           England, Singapore, Malaysia, United Arab Emirates and Australia.
         </p>
         <p>
+          <Link to="/previous-work#ian" className="button">
+            Ian's Previous Work
+          </Link>{' '}
           <a href="mailto:ian@waipiata.com" className="button">
             Email Ian
           </a>
