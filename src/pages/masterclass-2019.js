@@ -34,7 +34,7 @@ const MasterClass2019 = () => (
       <li>Dr Fiona Jenkins</li>
     </ul>
     <h3>More Information</h3>
-    <a href="/masterclass-181018.pdf" className="button">
+    <a href="/masterclass-111218.pdf" className="button">
       Event Info (pdf)
     </a>{' '}
     <a href="/masterclass-bios.pdf" className="button">

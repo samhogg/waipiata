@@ -7,11 +7,11 @@ const Header = ({ siteTitle }) => (
       style={{
         textAlign: 'center',
         padding: '12px 0',
-        fontSize: '21px',
+        fontSize: '26px',
         borderBottom: '1px solid #ccc',
       }}
     >
-      Allied Health &amp; NGO Business Master Class Coming in February 2019{' '}
+      <strong>Updated location, price reduction!</strong> <br />Allied Health &amp; NGO Business Master Class Coming in February 2019{' '}
       <Link to="/masterclass-2019">View Details</Link>
     </div>
     <div
