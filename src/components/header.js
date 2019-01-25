@@ -5,17 +5,6 @@ const Header = ({ siteTitle }) => (
   <div>
     <div
       style={{
-        textAlign: 'center',
-        padding: '12px 0',
-        fontSize: '26px',
-        borderBottom: '1px solid #ccc',
-      }}
-    >
-      <strong>Updated location, price reduction!</strong> <br />Allied Health &amp; NGO Business Master Class Coming in February 2019{' '}
-      <Link to="/masterclass-2019">View Details</Link>
-    </div>
-    <div
-      style={{
         background: '#2574A9',
         paddingTop: '3rem',
         marginBottom: '4rem',
